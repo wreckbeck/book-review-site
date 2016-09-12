@@ -24,26 +24,24 @@ Each page will have a:
 -  Navigation Section with links for the site
 -  A footer with a copyright notice and your name
 
-The pages of your site will pieces of an online book review site.  __[Under no circumstances should you use inline html styles.](http://stackoverflow.com/questions/2612483/whats-so-bad-about-in-line-css)__
+The pages of your site will be the pieces of an online book review site.  __[Under no circumstances should you use inline html styles.](http://stackoverflow.com/questions/2612483/whats-so-bad-about-in-line-css)__
 
 ### Site Homepage
 
-For the homepage of your site, named `index.html` you will create a site with:
+For the homepage of your site, named `index.html` you will create a page with:
 -  A Header section with the title for your book review site.
 -  A section for navigation.
--  A main content section with an html unordered list of the top-5 book images (see the images folder) which will link to their pages in Amazon.com or book review pages.  
+-  A main content section with an html unordered list of the top-5 book images (see the images folder) which should link to their pages in Amazon.com or book review pages.  
 
 ### Book Review Pages
-You will then create a book review page template, using Eloquent Ruby by Russ Olsen and develop a structure for the site.  The content for the page is provided in the content folder by the textfile `index_content.txt`  The book review page will have the same structure as `index.html` except for the main content section.  The page will also include the image of book EloquentRuby.jpg
-
-In the main content section you will need to structure the content inside the textfile. 
+You will then create a book review page template, using Eloquent Ruby by Russ Olsen and develop a structure for the site.  The content for the page is provided in the content folder by the textfile `index_content.txt`. The book review page will have the same overall structure as `index.html` except the main content section will structure the information inside of the text file.  The page should also include the image of book EloquentRuby.jpg
 
 ### Site Contact Page
 You will also include a contact page for visitors to provide feedback to the maintainers.  
 
 The page will include:
 
--  A Picture of the site maintainer, you can select a picture or use the goofy picture provided.
+-  A Picture of the site maintainer, you can use a picture of yourself or use the goofy picture provided.
 -  A statement welcoming feedback on the site via e-mail, twitter or facebook.
 -  A list of methods to contact the site maintainer via email, Twitter and Facebook.  
 
@@ -53,7 +51,7 @@ When you finish review the site with another student at your table explaining yo
 
 In This wave you will add CSS styling to change the appearance of the site.  You will be adding an external stylesheet named `style.css`.
 
-In the style sheet you will need to discover how to:
+In the style sheet you will be discovering how to:
 
 -  Place the Header/Title section across the top of the site with a border and appropriate background color.
 -  Provide an appropriate background color for the main content section
@@ -70,7 +68,7 @@ Page Specific Styling:
 -  `eloquentRuby.html`
 	-  The __Eloquent Ruby__ book image should be left-aligned with the details about the book to the right of it.
 -  `contact.html`
-	-  With a the message about contacting the site maintainer to the right of it.  
+	-  The site maintainer photo should be left-aligned and the message about contacting the site maintainer to the right of it.  
 
 When you are finished review your changes with your tablemate.  
 
