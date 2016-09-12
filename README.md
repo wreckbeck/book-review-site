@@ -45,7 +45,20 @@ The page will include:
 -  A statement welcoming feedback on the site via e-mail, twitter or facebook.
 -  A list of methods to contact the site maintainer via email, Twitter and Facebook.  
 
-When you finish review the site with another student at your table explaining your choices in terms of tags and sectioning of the pages.  Make adjustments where it seems appropriate.  
+When you finish review the site with another student at your table explaining your choices in terms of tags and sectioning of the pages.  
+
+What sectioning/semantic tags did you use and where?
+-  div
+-  body
+-  section
+-  article
+-  nav
+-  aside
+-  header
+-  footer
+
+
+Make adjustments where it seems appropriate.  
 
 ## Wave 2 - Adding CSS
 
