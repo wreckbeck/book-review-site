@@ -67,22 +67,22 @@ In This wave you will add CSS styling to change the appearance of the site.  You
 
 In the style sheet you will be practicing how to:
 
--  Place the Header/Title section across the top of the site with a border and appropriate background color.
+-  Place the Header/Title section across the top of the site with a border and appropriate background color
 -  Provide an appropriate background color for the main content section
--  Select appropriate fonts & colors for text on the site.  
--  Make the navigation links display different colors when the mouse rolls over the link.  
--  Use CSS styling to hide the bullet-points of the unordered lists in the site.  
+-  Select appropriate fonts & colors for text on the site  
+-  Make the navigation links display different colors when the mouse rolls over the link  
+-  Use CSS styling to hide the bullet-points of the unordered lists in the site  
 -  Place the Footer section across the entire bottom of the site with a border and an appropriate background color
 
 
 Page Specific Styling:
 -  `index.html`
-	-  use CSS styling to hide the bullet-points of the unordered list containing the book images.
+	-  use CSS styling to hide the bullet-points of the unordered list containing the book images
 	-  use CSS styling to make all the images the same height
 -  `eloquentRuby.html`
-	-  The __Eloquent Ruby__ book image should be left-aligned with the details about the book to the right of it.
+	-  The __Eloquent Ruby__ book image should be left-aligned with the details about the book to the right of it
 -  `contact.html`
-	-  The site maintainer photo should be left-aligned and the message about contacting the site maintainer to the right of it.  
+	-  The site maintainer photo should be left-aligned and the message about contacting the site maintainer to the right of it  
 
 When you are finished review your changes with your tablemate.  
 
