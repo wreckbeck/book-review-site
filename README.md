@@ -2,6 +2,8 @@
 
 Now we will use the skills you've learned to build pages of an online book review website.
 
+This is an individual, [stage 1](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project.
+
 ##  Learning Goals:
 
 -  Demonstrate an understanding of HTML Syntax  
