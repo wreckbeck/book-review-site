@@ -65,29 +65,35 @@ Make adjustments where it seems appropriate.
 
 ## Wave 2 - Adding CSS
 
-In This wave you will add CSS styling to change the appearance of the site.  You will be adding an external stylesheet named `style.css`.
+In This wave you will add CSS styling to change the appearance of the site.  
+
+You will be have one main CSS document named `style.css`, that will hold styles that apply to every page. There will also be three additional CSS documents for to each HTML page's specific styles, named `index.css`, `eleoquentRuby.css`, and `contact.css`.
+
+**Each html page should link to to two style sheets:** 'style.css' first, and then css document that corresponds to it (index.css, eleoquentRuby.css, or contact.css). That will ensure that the specific styles override the generic ones.  
 
 In the style sheet you will be practicing how to:
 
--  Place the Header/Title section across the top of the site with a border and appropriate background color
--  Provide an appropriate background color for the main content section
--  Select appropriate fonts & colors for text on the site  
--  Make the navigation links display different colors when the mouse rolls over the link  
--  Use CSS styling to hide the bullet-points of the unordered lists in the site  
--  Place the Footer section across the entire bottom of the site with a border and an appropriate background color
+-  Give the Header and footer sections a border and background color
+-  Give the main content section a background color
+-  Apply a new font to the entire page (ex: Helvetica or Arial)
+-  Italicize any book titles that appear in the text content of the page
+-  Apply a new color to each heading element
+-  Display a different color when the mouse rolls over the navigational links
+-  Hide the bullet-points of the unordered lists in the site  
 
 
 Page Specific Styling:
 -  `index.html`
-	-  use CSS styling to hide the bullet-points of the unordered list containing the book images
-	-  use CSS styling to make all the images the same height
+	-  Make all the images the same width
 -  `eloquentRuby.html`
-	-  The __Eloquent Ruby__ book image should be left-aligned with the details about the book to the right of it
+  - Give each review a background color of light gray
+  - Change the line-height of the review's paragraphs to 150%
 -  `contact.html`
-	-  The site maintainer photo should be left-aligned and the message about contacting the site maintainer to the right of it  
+  - Center all the text of the main content (excluding content in header and footer elements)
+  - Round the corners of the site maintainer image
 
-When you are finished review your changes with your tablemate.  
+When you are finished review your changes with your chair pair.  
 
 ## Extensions
--  Create another page for a book you have found useful and link it into the navigation of the site.  
--  Attempt to create a more complex layout with content side-by-side as you feel appropriate.  
+- Create another page for a book you have found useful and link it into the navigation of the site.
+- Import a new font from Google Fonts to apply to heading elements
