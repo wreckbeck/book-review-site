@@ -86,13 +86,13 @@ In the style sheet, practice the following:
 
 Page Specific Styling:
 -  `index.html`
-	-  Make all the images the same width
+    -  Make all the images the same width
 -  `eloquent-ruby.html`
-  - Give each review a background color of light gray
-  - Change the line-height of the review's paragraphs to 150%
+    - Give each review a background color of light gray
+    - Change the line-height of the review's paragraphs to 150%
 -  `contact.html`
-  - Center all the text of the main content (excluding content in header and footer elements)
-  - Round the corners of the site maintainer image
+    - Center all the text of the main content (excluding content in header and footer elements)
+    - Round the corners of the site maintainer image
 
 When you are finished review your changes with your seat squad.
 
