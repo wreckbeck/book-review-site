@@ -37,7 +37,7 @@ The homepage of your site is named `index.html`. This page will have:
   - Each image should link to their page in Amazon.com or a book review page.
 
 ### Book Review Pages
-Create a book review page for the book *Eloquent Ruby* by Russ Olsen in a new file `eloquent-ruby.html`.  The content for that page is provided in the content folder by the text file `Eloquent_Ruby.txt`. The book review page should have the same overall structure as `index.html`, except the main content section should structure the information inside of the text file.  The page should also include the image of the book, included in the images folder.
+Create a book review page for the book *Eloquent Ruby* by Russ Olsen in a new file `eloquent-ruby.html`.  The content for that page is provided in the content folder by the text file `eloquent-ruby.txt`. The book review page should have the same overall structure as `index.html`, except the main content section should structure the information inside of the text file.  The page should also include the image of the book, included in the images folder.
 
 Use `eloquent-ruby.html` as a template for the other review pages for the other books.
 
@@ -71,7 +71,7 @@ In this wave, you will add CSS styling to change the appearance of the site.
 
 Create and use one main CSS document named `style.css`, which will hold styles that apply to every page. Then create three additional CSS documents for each HTML page's specific styles, named `index.css`, `eloquent-ruby.css`, and `contact.css`.
 
-**Each html page should link to to two style sheets:** 'style.css' first, and then css document that corresponds to it (`index.css`, `eloquent-ruby.css`, or `contact.css`). This will ensure that the specific styles override the generic ones.
+**Each html page should link to to two style sheets:** `style.css` first, and then CSS document that corresponds to it (`index.css`, `eloquent-ruby.css`, or `contact.css`). This will ensure that the specific styles override the generic one.
 
 In the style sheet, practice the following:
 
