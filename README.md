@@ -1,4 +1,4 @@
-# Building Your First Website
+# Book Review Site
 
 Use the skills you've learned to build pages of an online book review website.
 
@@ -6,7 +6,7 @@ This is an individual, [stage 1](https://github.com/Ada-Developers-Academy/pedag
 
 ##  Learning Goals:
 
--  Demonstrate an understanding of HTML Syntax  
+-  Demonstrate an understanding of HTML syntax
 -  Demonstrate an understanding of appropriate tag selection for specific content  
 -  Demonstrate an ability to link local pages and remote pages
 -  Demonstrate the creation of a external stylesheet  
