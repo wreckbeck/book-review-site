@@ -1,16 +1,13 @@
 # Book Review Site
 
-Use the skills you've learned to build pages of an online book review website.
-
-This is an individual, [stage 1](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project.
+We will use the skills we've learned to build pages for an online book review website.
 
 ##  Learning Goals:
 
--  Demonstrate an understanding of HTML syntax
--  Demonstrate an understanding of appropriate tag selection for specific content  
--  Demonstrate an ability to link local pages and remote pages
--  Demonstrate the creation of a external stylesheet  
--  Organize a site with [semantic](http://blog.teamtreehouse.com/use-html5-sectioning-elements) HTML
+- Practice structuring content using [semantic](http://blog.teamtreehouse.com/use-html5-sectioning-elements) HTML.
+- Practice linking local pages and remote pages.
+- Practice creating an external stylesheet.
+- Practice selecting elements and applying styles using CSS. 
 
 
 ## Wave 1 - Creating Semantic HTML
