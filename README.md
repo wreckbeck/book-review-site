@@ -1,16 +1,13 @@
 # Book Review Site
 
-Use the skills you've learned to build pages of an online book review website.
-
-This is an individual, [stage 1](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project.
+We will use the skills we've learned to build pages for an online book review website.
 
 ##  Learning Goals:
 
--  Demonstrate an understanding of HTML syntax
--  Demonstrate an understanding of appropriate tag selection for specific content  
--  Demonstrate an ability to link local pages and remote pages
--  Demonstrate the creation of a external stylesheet  
--  Organize a site with [semantic](http://blog.teamtreehouse.com/use-html5-sectioning-elements) HTML
+- Practice structuring content using [semantic](http://blog.teamtreehouse.com/use-html5-sectioning-elements) HTML.
+- Practice linking local pages and remote pages.
+- Practice creating an external stylesheet.
+- Practice selecting elements and applying styles using CSS. 
 
 
 ## Wave 1 - Creating Semantic HTML
@@ -18,7 +15,7 @@ This is an individual, [stage 1](https://github.com/Ada-Developers-Academy/pedag
 
 ![Site Layout](images/layout.png "Site Layout")
 
-In this exercise you will create the HTML to go along with content for 3 pages of HTML.  The pages of your site will be the pieces of an online book review site.  You will structure the content given in the content folder with semantic html tags providing meaning to the content.
+In this exercise, we will create the HTML to go along with content for 3 pages of HTML. The pages of our site will be the pieces of an online book review site. We will structure the content given in the content folder with semantic HTML tags providing meaning to the content.
 
 Each page must have a:
 -  Doctype, head, and body of an HTML    
@@ -26,18 +23,18 @@ Each page must have a:
 -  Navigation section with links for the site
 -  A footer with a copyright notice and your name
 
-__[Under no circumstances should you use inline html styles.](http://stackoverflow.com/questions/2612483/whats-so-bad-about-in-line-css)__
+__[Under no circumstances should we use inline HTML styles.](http://stackoverflow.com/questions/2612483/whats-so-bad-about-in-line-css)__
 
 ### Site Homepage
 
-The homepage of your site is named `index.html`. This page will have:  
+The homepage of the site is named `index.html`. This page will have:  
 -  A header section with the title for your book review site
 -  A section for navigation
 -  A main content section with an unordered list of the top-5 book images (see the images folder)
-  - Each image should link to their page in Amazon.com or a book review page.
+  - Each image should link to their page on Amazon.com or a book review page.
 
 ### Book Review Pages
-Create a book review page for the book *Eloquent Ruby* by Russ Olsen in a new file `eloquent-ruby.html`.  The content for that page is provided in the content folder by the text file `eloquent-ruby.txt`. The book review page should have the same overall structure as `index.html`, except the main content section should structure the information inside of the text file.  The page should also include the image of the book, included in the images folder.
+Create a book review page for the book *Eloquent Ruby* by Russ Olsen in a new file `eloquent-ruby.html`. The content for that page is provided in the content folder by the text file `eloquent-ruby.txt`. The book review page should have the same overall structure as `index.html`, except the main content section should structure the information inside of the text file.  The page should also include the image of the book, included in the images folder.
 
 Use `eloquent-ruby.html` as a template for the other review pages for the other books.
 
@@ -50,7 +47,7 @@ This page should include:
 -  A statement welcoming feedback on the site via email, Twitter or Facebook
 -  A list of methods to contact the site maintainer via email, Twitter and Facebook
 
-When you are finished, review the site with another student at your table explaining the design choices you made.
+When you are finished, consider reviewing the site with another student and explain the design choices you made.
 
 What sectioning/semantic tags did you use and where?
 -  div
@@ -67,7 +64,7 @@ Make adjustments where it seems appropriate.
 
 ## Wave 2 - Adding CSS
 
-In this wave, you will add CSS styling to change the appearance of the site.
+In this wave, we will add CSS styling to change the appearance of the site.
 
 Create and use one main CSS document named `style.css`, which will hold styles that apply to every page. Then create three additional CSS documents for each HTML page's specific styles, named `index.css`, `eloquent-ruby.css`, and `contact.css`.
 
@@ -94,8 +91,8 @@ Page Specific Styling:
     - Center all the text of the main content (excluding content in header and footer elements)
     - Round the corners of the site maintainer image
 
-When you are finished review your changes with your seat squad.
+When you are finished, consider reviewing your changes with a classmate.
 
 ## Extensions
-- Create another page for a book you have found useful and link it into the navigation of the site
+- Create another page for a book you have found useful and link it in the navigation of the site
 - Import a new font from [Google Fonts](https://fonts.google.com/) to apply to heading elements
