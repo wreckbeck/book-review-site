@@ -31,7 +31,7 @@ The homepage of the site is named `index.html`. This page will have:
 -  A header section with the title for your book review site
 -  A section for navigation
 -  A main content section with an unordered list of the top-5 book images (see the images folder)
-  - Each image should link to their page in Amazon.com or a book review page.
+  - Each image should link to their page on Amazon.com or a book review page.
 
 ### Book Review Pages
 Create a book review page for the book *Eloquent Ruby* by Russ Olsen in a new file `eloquent-ruby.html`. The content for that page is provided in the content folder by the text file `eloquent-ruby.txt`. The book review page should have the same overall structure as `index.html`, except the main content section should structure the information inside of the text file.  The page should also include the image of the book, included in the images folder.
