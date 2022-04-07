@@ -19,7 +19,7 @@ In this exercise, we will create the HTML to go along with content for 3 pages o
 
 Each page must have a:
 -  Doctype, head, and body of an HTML    
--  A header/title Section
+-  A header section
 -  Navigation section with links for the site
 -  A footer with a copyright notice and your name
 
